@@ -1,4 +1,4 @@
-# Guide
+<h1 align="center"> GUIDE </h1>
 
 1. Headlines.
 2. Bold text.
@@ -6,26 +6,68 @@
 4. List
 5. Table
 
+<h1 align="center"> Headlines </h1>
 
-<h1 align="center"> HEADLINES </h1>
-<span style="color: red;">Este texto es rojo</span>
+<details>
+  <summary> Headline 1 </summary>
+  </br>
+  
+  ___
+  # Headline 1
+  ___
+  ~~~md
+  Headline 1
+  ==========
+  ~~~
+
+  ~~~md
+  Headline 1
+  =
+  ~~~
+
+  ~~~md
+  # Headline 1 #
+  ~~~
+
+  ~~~md
+  # Headline 1
+  ~~~
+
+  ~~~html
+  <h1> Headline 1 </h1>
+  ~~~
+
+</details>
+
+<details>
+  <summary> Headline 2 </summary>
+  </br>
+
+  ~~~md
+  Headline 2
+  ----------
+  ~~~
+
+  ~~~md
+  Headline 2
+  -
+  ~~~
+
+  ~~~md
+  ## Headline 2 ##
+  ~~~
+
+  ~~~md
+  ## Headline 2
+  ~~~
+
+  ~~~html
+  <h2> Headline 2 </h2>
+  ~~~
+
+</details>
 
 
-# Headline 1 
-~~~
-# Headline 1
-~~~
-~~~
-# Headline 1 #
-~~~
-~~~
-<h1> Headline 1 </h1>
-~~~
-
-## Headline 2
-~~~
-## Headline 2
-~~~
 
 ### Headline 3
 ``` 

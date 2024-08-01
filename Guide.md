@@ -6,6 +6,8 @@
 4. List
 5. Table
 
+</br>
+
 <h1 align="center"> Headlines </h1>
 
 <details>
